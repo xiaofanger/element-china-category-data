@@ -13,7 +13,7 @@
 
 ## 在线示例
 
-[地址在此，网页打开会比较慢](https://plortinus.github.io/element-china-category-data/index.html)
+[地址在此，网页打开会比较慢](https://xiaofanger.github.io/element-china-category-datindex.htmla/)
 
 ## 使用
 
