@@ -58,7 +58,7 @@ import { categoryData,  CodeToText, TextToCode } from 'element-china-category-da
       }
     </script>
     ```
-
+    ![示例](20191030123051.png)
 
 ## 数据来源
 
