@@ -1,6 +1,6 @@
 {
   "name": "element-china-category-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Element UI 级联 国民经济行业划分数据",
   "main": "./dist/app.js",
   "scripts": {
