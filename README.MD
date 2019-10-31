@@ -1,4 +1,4 @@
-# Element UI 中国国名经济行业分类
+# Element UI 国民经济行业分类
 
 [![npm](https://img.shields.io/npm/v/element-china-category-data.svg)](https://www.npmjs.com/package/element-china-category-data) [![npm](https://img.shields.io/npm/dt/element-china-category-data.svg)](https://www.npmjs.com/package/element-china-category-data)
 
